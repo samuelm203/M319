@@ -1,0 +1,8 @@
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe4a\bin\Debug\aufgabe4a.exe.config
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe4a\bin\Debug\aufgabe4a.exe
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe4a\bin\Debug\aufgabe4a.pdb
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe4a\obj\Debug\aufgabe4a.csproj.AssemblyReference.cache
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe4a\obj\Debug\aufgabe4a.csproj.CoreCompileInputs.cache
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe4a\obj\Debug\aufgabe4a.exe
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe4a\obj\Debug\aufgabe4a.pdb
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe4a\obj\Debug\aufgabe4a.exe.config

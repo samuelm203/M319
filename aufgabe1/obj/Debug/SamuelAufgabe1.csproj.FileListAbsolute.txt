@@ -1,0 +1,2 @@
+C:\Users\Samuel_Ming\OneDrive - sluz\SamuelAufgabe1\obj\Debug\SamuelAufgabe1.csproj.AssemblyReference.cache
+C:\Users\Samuel_Ming\OneDrive - sluz\SamuelAufgabe1\obj\Debug\SamuelAufgabe1.csproj.CoreCompileInputs.cache
