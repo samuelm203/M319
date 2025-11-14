@@ -1,8 +1,0 @@
-C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe6\bin\Debug\aufgabe6.exe.config
-C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe6\bin\Debug\aufgabe6.exe
-C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe6\bin\Debug\aufgabe6.pdb
-C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe6\obj\Debug\aufgabe6.csproj.AssemblyReference.cache
-C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe6\obj\Debug\aufgabe6.csproj.CoreCompileInputs.cache
-C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe6\obj\Debug\aufgabe6.exe
-C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe6\obj\Debug\aufgabe6.pdb
-C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe6\obj\Debug\aufgabe6.exe.config
