@@ -1,0 +1,16 @@
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ20\aufgabeZ20\bin\Debug\aufgabeZ20.exe.config
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ20\aufgabeZ20\bin\Debug\aufgabeZ20.exe
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ20\aufgabeZ20\bin\Debug\aufgabeZ20.pdb
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.csproj.AssemblyReference.cache
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.exe
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.pdb
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.exe.config
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabeZ20\aufgabeZ20\bin\Debug\aufgabeZ20.exe.config
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabeZ20\aufgabeZ20\bin\Debug\aufgabeZ20.exe
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabeZ20\aufgabeZ20\bin\Debug\aufgabeZ20.pdb
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.csproj.AssemblyReference.cache
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.exe.config
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.exe
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabeZ20\aufgabeZ20\obj\Debug\aufgabeZ20.pdb
