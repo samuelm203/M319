@@ -1,0 +1,8 @@
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ26\bin\Debug\aufgabeZ26.exe.config
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ26\bin\Debug\aufgabeZ26.exe
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ26\bin\Debug\aufgabeZ26.pdb
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ26\obj\Debug\aufgabeZ26.csproj.AssemblyReference.cache
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ26\obj\Debug\aufgabeZ26.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ26\obj\Debug\aufgabeZ26.exe
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ26\obj\Debug\aufgabeZ26.pdb
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\aufgabeZ26\obj\Debug\aufgabeZ26.exe.config
