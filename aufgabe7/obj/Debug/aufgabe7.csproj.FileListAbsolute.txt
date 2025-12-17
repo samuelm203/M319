@@ -1,0 +1,8 @@
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe7\bin\Debug\aufgabe7.exe.config
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe7\bin\Debug\aufgabe7.exe
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe7\bin\Debug\aufgabe7.pdb
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe7\obj\Debug\aufgabe7.csproj.AssemblyReference.cache
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe7\obj\Debug\aufgabe7.csproj.CoreCompileInputs.cache
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe7\obj\Debug\aufgabe7.exe
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe7\obj\Debug\aufgabe7.pdb
+C:\Users\Samuel_Ming\OneDrive - sluz\M319\aufgabe7\obj\Debug\aufgabe7.exe.config

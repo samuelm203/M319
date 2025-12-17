@@ -1,0 +1,7 @@
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabe8\bin\Debug\aufgabe8.exe.config
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabe8\bin\Debug\aufgabe8.exe
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabe8\bin\Debug\aufgabe8.pdb
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabe8\obj\Debug\aufgabe8.csproj.AssemblyReference.cache
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabe8\obj\Debug\aufgabe8.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabe8\obj\Debug\aufgabe8.exe
+C:\Users\Samuel\OneDrive - sluz\Schule\Berufsschule\M319\Aufgaben\aufgabe8\obj\Debug\aufgabe8.pdb
